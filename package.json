@@ -1,0 +1,23 @@
+{
+  "name": "automatic-octo-pancake",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "serve": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkelly32/automatic-octo-pancake.git"
+  },
+  "author": "Mike Kelly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkelly32/automatic-octo-pancake/issues"
+  },
+  "homepage": "https://github.com/mkelly32/automatic-octo-pancake#readme",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
